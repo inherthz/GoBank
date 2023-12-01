@@ -1,3 +1,3 @@
-module github.com/inherthz/GoBank/src/bankapi
+module github.com/inherthz/GoBank
 
 go 1.21.4

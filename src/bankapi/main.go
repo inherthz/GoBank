@@ -2,6 +2,8 @@ package main
 
 import (
 	"fmt"
+
+	_ "github.com/inherthz/GoBank"
 )
 
 func main() {

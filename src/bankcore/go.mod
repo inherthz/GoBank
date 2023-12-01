@@ -1,3 +1,3 @@
-module github.com/inherthz/GoBank/src/bankcore
+module github.com/inherthz/GoBank
 
 go 1.21.4
